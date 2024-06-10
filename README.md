@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Abhishek😀</h1>
-<h4 align="center">"I'm an aspiring Data Scientist</h4>
+<h4 align="center">"I'm an aspiring Full Stack Data Scientist India</h4>
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-👉[My Online Portfolio](https://entbappy.github.io/bappy-portfolio)
+👉[My Online Portfolio]()
 
 
 <h3 align="left">Languages and Tools:</h3>
