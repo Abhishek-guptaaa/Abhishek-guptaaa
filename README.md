@@ -22,7 +22,7 @@
 
 ### My Hobbies and interests:
 * Traveling
-* Singing
+* playing
 * Coding
 
 
@@ -36,10 +36,9 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="Abhishek | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Abhishek | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Abhishek | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="Abhishek | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+[<img align="left" alt="Abhishek | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][https://www.linkedin.com/in/abhishek-gupta-541741242/]
+
+
                                                                                                                                                                        
 
 <br>
