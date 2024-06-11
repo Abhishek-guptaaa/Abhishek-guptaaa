@@ -36,7 +36,7 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="Abhishek | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][https://www.linkedin.com/in/abhishek-gupta-541741242/]
+[<img align="left" alt="Abhishek | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />[linkedin]
 
 
                                                                                                                                                                        
@@ -45,11 +45,11 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/boktiarahmed73/
-[twitter]: https://twitter.com/bappy913873
-[Instagram]: https://www.instagram.com/entbappy/
-[YouTube]: https://www.youtube.com/dswithbappy
-[LeetCode]: https://leetcode.com/entbappy/
+[linkedin]: [https://www.linkedin.com/in/abhishek-gupta-541741242/]
+[twitter]: 
+[Instagram]: 
+[YouTube]: 
+[LeetCode]: 
 
 ## 💰 You can support me if you liked my work by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
