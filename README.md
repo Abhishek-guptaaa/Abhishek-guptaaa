@@ -5,13 +5,18 @@
 
 
 ### I have technical experience and interest in:                                 
-* Deep Learning                                                                   
-* Machine Learning
-* Natural Language Processing
+* Deep Learning  (Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Encoder and Decoder, Word Embedding , LSTM)                                           
+* Machine Learning ((Regression, Classification, Clustering)
+* Natural Language Processing 
 * MLOps
 * Generative AI
-* AWS(Amazon Web Services)
+* AWS(S3 bucket, Code Pipeline, ECS, ECR and EC2)
+* Code Management and Documentation (Git,  Circle CI, and GitHub Action)
+* Programing Language: (Python) | Databases (MySQL)
+* Tools(vscode, jupternotebook, google colab)
 
+Currently learning: Generative Ai and AWS from iNeuron
+Planning to be certified as Gererative Ai  as soon as possible.
 
 
 👉[My Online Portfolio]()
