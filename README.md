@@ -8,12 +8,11 @@
 * Deep Learning  (Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, Encoder and Decoder, Word Embedding , LSTM)                                           
 * Machine Learning ((Regression, Classification, Clustering)
 * Natural Language Processing 
-* MLOps
 * Generative AI
 * AWS(S3 bucket, Code Pipeline, ECS, ECR and EC2)
 * Code Management and Documentation (Git,  Circle CI, and GitHub Action)
-* Programing Language: (Python) | Databases (MySQL)
-* Tools(vscode, jupternotebook, google colab)
+* Programing Language: (Python) | Databases (MySQL, MongoDB)
+* Tools(vscode, Jupternotebook, Google colab)
 
 Currently learning: Generative Ai and AWS from iNeuron
 Planning to be certified as Gererative Ai  as soon as possible.
